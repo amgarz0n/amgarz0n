@@ -1,8 +1,6 @@
 ### Hello Hello!! 👋
 
-My name is Angelica Garzon (but you can call me Angi). I am a designer that started to code 😜
-- 🔭 I’m currently working on my personal brand and portfolio
-- 🌱 I’m currently learning more about JavaScript
+My name is Angelica M. Garzon, and I am a designer that loves letters. Having been introduced to design at a young age, I have developed an eye for clean aesthetics and functional design. I am a fast learner, and I've learned to move fast. Feel free to contact me, or check out my LinkedIn to learn more about my experience. Have a great day!
 - 📫 How to reach me: email me angigarzon@gmail.com
 
 [![Angi's github stats](https://github-readme-stats.vercel.app/api?username=amgarz0n&hide=stars&count_private=true&show_icons=true&&theme=highcontrast)](https://github.com/amgarz0n)
